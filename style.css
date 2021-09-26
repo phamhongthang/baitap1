@@ -1,0 +1,48 @@
+.text-red{
+    color: red;
+}
+.btn-danger{
+    background-color:#ff6b81 ;
+}
+.food-search{
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    padding: 7% 0;
+}
+.search{
+    width: 50%;
+    margin: 0 auto;
+}
+.float-text{
+    bottom: 0px;
+}
+.btn-primary:hover
+{ 
+    color: white;
+    background-color:#ff6b81 ;
+}
+.food-detail{
+    font-size: 0.9rem;
+    color: #747d8c;
+}
+.text-center{
+    text-align: center;
+    text-decoration: none;
+}
+.social ul{
+    list-style-type: none;
+   margin-left: 40%;
+}
+.letf ul li{
+    float:left
+   
+}
+.top{
+    padding-top: 360px;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
